@@ -1,0 +1,13 @@
+{
+  "Group": "io.hafemi",
+  "Name": "StoneConvert",
+  "Description": "Convert Cobblestone to Stone and vice versa",
+  "Version": "1.0.0",
+  "Main": "io.hafemi.stoneconverter.ConvertPlugin",
+  "Authors": [
+    {
+      "Name": "Hafemi"
+    }
+  ],
+  "DisabledByDefault": false
+}
