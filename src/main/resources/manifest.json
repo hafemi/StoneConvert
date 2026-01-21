@@ -3,7 +3,7 @@
   "Name": "StoneConvert",
   "Description": "Convert Cobblestone to Stone and vice versa",
   "Version": "1.0.0",
-  "Main": "io.hafemi.stoneconverter.ConvertPlugin",
+  "Main": "io.hafemi.stoneconvert.ConvertPlugin",
   "Authors": [
     {
       "Name": "Hafemi"

@@ -12,5 +12,10 @@ public class ConvertPlugin extends JavaPlugin {
     @Override
     protected void setup() {
         super.setup();
+        this.getCommandRegistry().registerCommand(new ConvertCommand(
+                "convert",
+                "Convert Cobblestone to Stone and vice versa",
+                false
+        ));
     }
 }
